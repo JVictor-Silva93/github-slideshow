@@ -2,5 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+> you miss 100% of the shots you don't take
+> - Wayne Gretzky - Michael Scott
 Use the left arrow to go back!
